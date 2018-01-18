@@ -1,3 +1,4 @@
+# 爬网站查询IP
 #/usr/bin/python
 # -*- coding: UTF-8 -*-
 import requests
